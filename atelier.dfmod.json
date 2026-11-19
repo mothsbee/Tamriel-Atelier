@@ -7,10 +7,10 @@
     "ModDescription": "Adds new clothing to the clothing loot pools and stores. Scripts only - make sure either Male, Female, or both sprite files are enabled.",
     "GUID": "981b674f-aa21-41c2-9eae-56c36be29cae",
     "Files": [
-        "Assets/Game/Mods/Tamriellic Threads/Scripts/AtelierItemsFemale.cs",
-        "Assets/Game/Mods/Tamriellic Threads/Scripts/AtelierItemsAdd.cs",
-        "Assets/Game/Mods/Tamriellic Threads/ItemTemplates.json",
-        "Assets/Game/Mods/Tamriellic Threads/Scripts/AtelierItemsMale.cs",
-        "Assets/Game/Mods/Tamriellic Threads/atelier.dfmod.json"
+        "Assets/Game/Mods/TamrielAtelier/Scripts/AtelierItemsFemale.cs",
+        "Assets/Game/Mods/TamrielAtelier/Scripts/AtelierItemsAdd.cs",
+        "Assets/Game/Mods/TamrielAtelier/ItemTemplates.json",
+        "Assets/Game/Mods/TamrielAtelier/Scripts/AtelierItemsMale.cs",
+        "Assets/Game/Mods/TamrielAtelier/atelier.dfmod.json"
     ]
 }
