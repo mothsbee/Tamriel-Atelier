@@ -1,7 +1,1 @@
 *.meta
-*.png
-*.PNG
-Textures/*
-Textures/DefaultMale/*
-Textures/DefaultFemale/*
-Textures/PaperdollEnhanced/*

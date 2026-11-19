@@ -1,0 +1,1 @@
+put these folders in Assets\Game\Mods, separate from TamrielAtelier. sprite packs must be compiled separately as their own .dfmods. this makes it easier to build the main .dfmod without needing to rebuild the sprites every single time.
